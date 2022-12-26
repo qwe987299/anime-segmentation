@@ -1,4 +1,21 @@
+# 此分支儲存庫說明
+
+Anime Segmentation 是一個動漫角色 AI 去背工具，本人萌芽站長加了些懶人程式讓一般使用者更容易接觸並使用它！
+
+原始儲存庫：[https://github.com/SkyTNT/anime-segmentation](https://github.com/SkyTNT/anime-segmentation)
+
+```
+懶人包之檔案結構（不含原有的檔案及目錄）
+📁 src - 輸入圖檔用的目錄
+📁 build - 輸出圖檔用的目錄
+📁 save_model - 存放模型用的目錄
+📄 run-install.bat - 懶人安裝依賴項用的執行檔
+📄 run-inference.bat - 懶人直接去背用的執行檔
+📄 run-user.bat - 懶人直接去背用的執行檔(高級版)
+```
+
 # Anime Segmentation
+
 Segmentation for anime character
 
 ![](https://github.com/SkyTNT/anime-segmentation/blob/main/doc/banner.jpg?raw=true)
