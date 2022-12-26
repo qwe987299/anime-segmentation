@@ -1,0 +1,1 @@
+python inference.py --net isnet_is --ckpt save_model/isnetis.ckpt --data src/ --out build/ --device cpu --only-matted
