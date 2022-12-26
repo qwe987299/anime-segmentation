@@ -2,7 +2,9 @@
 
 Anime Segmentation 是一個動漫角色 AI 去背工具，本人萌芽站長加了些懶人程式讓一般使用者更容易接觸並使用它！
 
+圖文教學：[https://mnya.tw/cc/word/1914.html](https://mnya.tw/cc/word/1914.html)
 原始儲存庫：[https://github.com/SkyTNT/anime-segmentation](https://github.com/SkyTNT/anime-segmentation)
+分支儲存庫：[https://github.com/qwe987299/anime-segmentation](https://github.com/qwe987299/anime-segmentation)
 
 ```
 懶人包之檔案結構（不含原有的檔案及目錄）
